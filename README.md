@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1470-shuffle-the-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
