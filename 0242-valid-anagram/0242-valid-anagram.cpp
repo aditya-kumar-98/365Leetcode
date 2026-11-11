@@ -1,24 +1,18 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        priority_queue<char> stacks;
-        priority_queue<char> stackt;
+        unordered_map<char,int>freq;
         if(s.size() != t.size()){
             return false;
         }
-        for(char c : s){
-            stacks.push(c);
+        for(char i : s){
+            freq[i]++;
         }
-        for(char cc : t){
-            stackt.push(cc);
+        for(char c : t){
+            freq[c]--;
         }
-
-        for(int i = 0 ; i < s.size() ; i++){
-            char spop = stacks.top();
-            stacks.pop();
-            char tpop = stackt.top();
-            stackt.pop();
-            if(spop != tpop){
+        for(auto it : freq){
+            if(it.second != 0){
                 return false;
             }
         }
