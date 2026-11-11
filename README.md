@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0018-4sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
