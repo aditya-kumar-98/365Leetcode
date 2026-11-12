@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1929-concatenation-of-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Math
 |  |
 | ------- |
