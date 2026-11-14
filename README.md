@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0605-can-place-flowers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting
