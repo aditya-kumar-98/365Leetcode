@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0605-can-place-flowers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
