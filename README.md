@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0392-is-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -89,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0062-unique-paths) |
+| [0392-is-subsequence](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0455-assign-cookies) |
 | [1768-merge-strings-alternately](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Database
