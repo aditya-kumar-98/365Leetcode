@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1929-concatenation-of-array) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Bit Manipulation
 |  |
 | ------- |
