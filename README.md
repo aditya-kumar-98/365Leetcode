@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0018-4sum) |
 | [0055-jump-game](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0455-assign-cookies) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
