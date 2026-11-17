@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1470-shuffle-the-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1929-concatenation-of-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0455-assign-cookies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Database
 |  |
