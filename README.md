@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1929-concatenation-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2352-equal-row-and-column-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
