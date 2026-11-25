@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
@@ -184,10 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
