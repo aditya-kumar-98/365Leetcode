@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1390-four-divisors](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1470-shuffle-the-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1390-four-divisors](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1390-four-divisors) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -208,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
