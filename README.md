@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3360-stone-removal-game](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3360-stone-removal-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/aditya-kumar-98/365Leetcode/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
