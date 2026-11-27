@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0392-is-subsequence) |
