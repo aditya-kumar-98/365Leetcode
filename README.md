@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0055-jump-game) |
 | [0137-single-number-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0443-string-compression) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
