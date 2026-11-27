@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0055-jump-game) |
 | [0137-single-number-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0455-assign-cookies) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
