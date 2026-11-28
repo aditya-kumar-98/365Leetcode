@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0062-unique-paths) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/aditya-kumar-98/365Leetcode/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-kumar-98/365Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
